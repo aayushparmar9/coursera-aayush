@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="css/test.css">
+	<title>
+		WP
+	</title>
+</head>
+<body>
+
+<h1>A047</h1>
+	<div  id="div1">
+  	<img src="img.jpg" height="30%" width="30%">
+  	<ul>
+  		<li><a href="pd.html"> Personal Details</a></li>
+		<li><a href="hobbies.html">Hobbies</a></li>
+ 		<li><a href="education.html">Education</a></li>
+ 		<li><a href="education.html">Skills</a></li>
+    </ul> 
+  	</div>
+
+  	<div  id="div1">
+  		<h1>My University</h1>
+  		<p>SVKM’s NMIMS Deemed to be University (as per UGC Norms), one of the premier Universities of Higher Studies in India, has completed 33 years of its existence in the year 2013-14. NMIMS established in the year 1981 as Narsee Monjee Institute of Management Studies, began its journey by offering a masters degree program in management studies, a course of the University of Mumbai with an intake of only 40 students and 4 full time faculty</p>
+  	</div>
+  	
+
+  	<div id="div1">
+  	<h1>My college</h1>
+  	<p>
+  		Mukesh Patel School of Technology Management & Engineering (MPSTME) is an important addition to NMIMS's vision of "Transcending Horizons". MPSTME came into existence under the able guidance of Shri Amrish Patel along with few technocrats with a dream of fulfilling the requirement of both Engineering and Management. In the year 2006, MPSTME came into existence with the entry of the third batch of MBA (Tech.) innovative program which was started in the year 2004. MPSTME campus in Mumbai stands tall as a shining metaphor of India's progress in the field of education.</p>
+  	</div>
+
+  	<div  id="div1">
+  	<h1>My Department</h1>
+  		<p>The exponential growth of user expectations and the increasing workload in the industry sector has created immense requirements for professionals in the field of Information Technology. MPSTME has envisioned the requirement for producing smart I.T. professionals and designed a world class program to meet the global challenges in Information Technology. The Program provides the students with a platform to develop insight to face some of the toughest real life challenges in Technology and to come out with innovative solutions to satisfy the stakeholders.</p>
+  	</div>
+
+</body>
+</html>
